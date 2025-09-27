@@ -146,11 +146,6 @@ df = pd.read_excel('bc20afbf-968a-4cea-9bc5-5f1ed32ad325.xlsx')
 - Crear dashboard de KPIs fiscales
 - Desarrollar modelos predictivos
 
-### 📋 Fiscales
-- Auditar aplicación de impuestos
-- Verificar retenciones
-- Asegurar compliance DIAN
-
 ## 🔮 Próximos Pasos
 
 ### 📈 Análisis Avanzado
@@ -159,16 +154,6 @@ df = pd.read_excel('bc20afbf-968a-4cea-9bc5-5f1ed32ad325.xlsx')
 - [ ] Correlaciones entre impuestos
 - [ ] Detección automática de anomalías
 
-### 🤖 Automatización
-- [ ] Pipeline de procesamiento automático
-- [ ] Validaciones de compliance
-- [ ] Reportes automáticos
-- [ ] Integración con ERP
-
-### 📊 Visualización Avanzada
-- [ ] Dashboard interactivo (Power BI/Tableau)
-- [ ] Reportes ejecutivos automáticos
-- [ ] Alertas en tiempo real
 
 ## 🔗 Recursos Adicionales
 
