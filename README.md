@@ -1,4 +1,4 @@
-# 📊 Análisis de Facturas Electrónicas - Proyecto Integrador Nivel 3
+# 📊 Análisis de Facturas Electrónicas - Proyecto Integrador Nivel 2
 
 ## 📋 Información del Proyecto
 
@@ -6,7 +6,7 @@
 - **Institución:** CESDE
 - **Programa:** Desarrollo de Software
 - **Fecha:** Septiembre 2025
-- **Tipo:** Proyecto Integrador - Nivel 3
+- **Tipo:** Proyecto Integrador - Nivel 2
 
 ## 🎯 Objetivo
 
